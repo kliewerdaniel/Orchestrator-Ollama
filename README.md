@@ -40,7 +40,7 @@ Ensure that Ollama is installed and the required models are downloaded locally.
 
    ```bash
    git clone https://github.com/kliewerdaniel/orchestrator-ollama.git
-   cd tech-company-orchestrator
+   cd orchestrator-ollama
    ```
 
 2. **Install Dependencies:**
