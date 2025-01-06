@@ -51,15 +51,6 @@ Ensure that Ollama is installed and the required models are downloaded locally.
    pip install -r requirements.txt
    ```
 
-3. **Set Up .env File:**
-
-   Create a `.env` file in the root directory and specify the model name you will use with Ollama:
-
-   ```
-   OLLAMA_MODEL=your-model-name
-   ```
-
-   Replace `your-model-name` with the name of the model installed in Ollama (e.g., llama-2, qwen).
 
 ## Usage
 
