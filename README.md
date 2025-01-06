@@ -125,7 +125,7 @@ To add a new agent, create a new Python module in the agents directory and integ
 
 ## Troubleshooting
 
-- **Ollama Model Not Found**: Ensure that the correct model name is specified in the `.env` file.
+
 - **NetworkX Errors**: Verify that all dependencies are installed correctly.
 - **JSON Parsing Issues**: Check that `initial_prompt.txt` is properly formatted as JSON.
 
