@@ -39,7 +39,7 @@ Ensure that Ollama is installed and the required models are downloaded locally.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/kliewerdaniel/tech-company-orchestrator.git
+   git clone https://github.com/kliewerdaniel/orchestrator-ollama.git
    cd tech-company-orchestrator
    ```
 
