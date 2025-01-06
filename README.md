@@ -27,9 +27,7 @@ Welcome to the Tech Company Orchestrator! This project is designed to simulate t
 
 - **Python**: 3.8 or higher
 - **Dependencies**:
-  - ollama
   - networkx
-  - python-dotenv
   - json
 
 Ensure that Ollama is installed and the required models are downloaded locally.
