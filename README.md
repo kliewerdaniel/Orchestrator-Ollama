@@ -1,6 +1,4 @@
-Certainly! Here is your content formatted as Markdown:
 
-```markdown
 # Tech Company Orchestrator - User Guide
 
 Welcome to the Tech Company Orchestrator! This project is designed to simulate the workflow of a tech company by orchestrating various agents to collaboratively process prompts and generate comprehensive outputs such as code, design specifications, deployment scripts, and more. The program utilizes Ollama models and a directed graph (via NetworkX) to model the interactions between different departments (agents).
@@ -143,6 +141,3 @@ To add a new agent, create a new Python module in the agents directory and integ
 Feel free to fork the repository and submit pull requests for improvements. Feedback and suggestions are always welcome!
 
 With this guide, you should be able to set up, run, and customize the Tech Company Orchestrator with Ollama. Happy orchestrating! 🎉
-```
-
-This Markdown format provides a structured and easy-to-read document that can be rendered beautifully in platforms supporting Markdown syntax.
